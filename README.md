@@ -58,3 +58,10 @@ It highlights sales patterns, profit margins, and customer purchase behavior acr
 * Discounted products with lower profit margins.
 
 ---
+
+## Author
+Created by: Hema Shrie  
+
+Email: rhemashrie156@gmail.com
+
+---
